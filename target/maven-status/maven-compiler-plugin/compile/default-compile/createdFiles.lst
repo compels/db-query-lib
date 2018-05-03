@@ -1,0 +1,11 @@
+net\compels\dbquerylib\base\BaseEntity.class
+net\compels\dbquerylib\datatables\DataTableRequest.class
+net\compels\dbquerylib\base\BaseDAO.class
+net\compels\dbquerylib\base\Sorter.class
+net\compels\dbquerylib\base\BaseService.class
+net\compels\dbquerylib\base\Criteria.class
+net\compels\dbquerylib\base\Column.class
+net\compels\dbquerylib\base\Join.class
+net\compels\dbquerylib\base\Query.class
+net\compels\dbquerylib\datatables\DataTableColumnSpecs.class
+net\compels\dbquerylib\base\Pagination.class
